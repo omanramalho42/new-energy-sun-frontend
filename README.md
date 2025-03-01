@@ -136,30 +136,6 @@ Editar
 
 Após fazer alterações no código, siga esses passos para enviar suas mudanças para o GitHub:
 
-1. **Adicionar os arquivos modificados**:
-
-git add .
-
-markdown
-Copiar
-Editar
-
-2. **Criar um commit**:
-
-git commit -m "Mensagem explicando as alterações"
-
-markdown
-Copiar
-Editar
-
-3. **Enviar para o repositório no GitHub**:
-
-git push origin main
-
-markdown
-Copiar
-Editar
-
 ## **Problemas Comuns**
 
 - **Erro: "bun: command not found"**
